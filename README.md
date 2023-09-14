@@ -1,4 +1,4 @@
-# Machine-Learning-Model-to-Classify-Class
+# Machine-Learning-Model-to-Classify-Class  https://drive.google.com/file/d/1oQ2JY8OroTRGUBFbYxJqBxx7hGdo6MnS/view?usp=sharing
 Data Collection: Gather the dataset containing labeled examples, where each example has features (attributes) and a corresponding class label. The dataset should be divided into a training set and a test set.
 
 Data Preprocessing: Prepare the data by cleaning it, handling missing values, and encoding categorical variables if necessary. You may also need to scale or normalize the features to ensure they have similar scales.
